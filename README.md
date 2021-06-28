@@ -1,2 +1,2 @@
-# NinjaGame
-Ninja-themed platformer game
+# GrappleGame
+Grapple-based platformer game
